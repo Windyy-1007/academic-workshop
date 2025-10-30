@@ -13,7 +13,7 @@ smart_punctuation = true
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
 title = {tagline = "Presenting the", title = "Academic Workshop Zola Theme", subtitles = ["For workshops, seminars, and academic events"]}
 banner = {extension = "svg", size = "fixed", fade = true}
-buttons = [{name = "Website", url = "https://aterenin.github.io/academic-workshop"}, {name="GitHub", url="http://github.com/aterenin/academic-workshop"}]
+buttons = []
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 header_pages = [{name = "Home", url = "/#home"},{name = "Design", url = "/#design"},{name = "Competition", url = "/competition/"}]
