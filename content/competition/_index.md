@@ -50,7 +50,38 @@ Participating teams will develop systems that:
 - **Combine symbolic logic engines** (e.g., Z3 or custom solvers) with open-source LLMs for natural-language parsing or translation to logic
 
 ---
+{{ new_block() }}
 
+
+
+## Judges and Chairmans
+
+{{ grid(
+    text = [
+        ["Judge A","Institution A"], 
+        ["Judge B","Institution B"],
+        ["Chairman C","Institution C"],
+        ["Chairman D","Institution D"],
+        ["Chainman E","Institution E"],
+    ],
+    urls = [
+        "https://aterenin.github.io/academic-workshop#speaker_a",
+        "https://aterenin.github.io/academic-workshop#speaker_b",
+        "https://aterenin.github.io/academic-workshop#speaker_c",
+        "https://aterenin.github.io/academic-workshop#speaker_d",
+        "https://aterenin.github.io/academic-workshop#speaker_e",
+    ],
+    images = [
+        "placeholder.svg",
+        "placeholder.svg",
+        "placeholder.svg",
+        "placeholder.svg",
+        "placeholder.svg",
+    ],
+    narrow = true) }}
+
+
+---
 ## Competition Rules
 
 ### DO
@@ -178,19 +209,19 @@ Your system should produce:
 
 The competition will award the following prizes:
 
-### 🥇 First Prize
+### First Prize
 - Trophy
 - Cash prize
 - Opportunity to publish as a **regular paper** in the International Workshop on Trustworthiness and Reliability in Neurosymbolic AI proceedings (IJCNN 2026)
 - Invitation to present in **Maastricht**
 
-### 🥈 Second Prize
+### Second Prize
 - Trophy
 - Cash prize
 - Opportunity to publish as a **regular paper** in the International Workshop on Trustworthiness and Reliability in Neurosymbolic AI proceedings (IJCNN 2026)
 - Invitation to present in **Maastricht**
 
-### 🥉 Third Prize
+### Third Prize
 - Trophy
 - Cash prize
 - Opportunity to publish as a **regular paper** in the International Workshop on Trustworthiness and Reliability in Neurosymbolic AI proceedings (IJCNN 2026)
@@ -244,7 +275,7 @@ Vietnam National University, Ho Chi Minh City
 
 ### Contact Information
 
-📧 **Email:** [ura.hcmut@gmail.com](mailto:ura.hcmut@gmail.com)
+**Email:** [ura.hcmut@gmail.com](mailto:ura.hcmut@gmail.com)
 
 Once registration is finalized, the organizers will set up a communication platform (e.g., Discord) to facilitate discussions with the teams.
 
